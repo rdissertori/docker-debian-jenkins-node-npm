@@ -4,4 +4,4 @@ services:
     build:
       context: .
       dockerfile: ./Dockerfile
-    image: rdissertori/alpine-debian-node-base:1.0
+    image: rdissertori/debian-jenkins-node-base:1.0
